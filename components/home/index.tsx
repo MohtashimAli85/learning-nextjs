@@ -9,7 +9,7 @@ function Home({}: Props) {
     <div className="bg-black">
       <Card title="Sedan" description="sdknosdn" icon={<SedansIcon />} />
       <Card title="sdsd" description="sdknosdn" icon={<SedansIcon />} />
-      <Card title="Sedasddkjdflkefn" description="sdknosdn" icon={<SedansIcon />} />
+      {/* <Card title="Sedasddkjdflkefn" description="sdknosdn" icon={<SedansIcon />} /> */}
     </div>
   );
 }
